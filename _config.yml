@@ -1,0 +1,28 @@
+name: MindBodyfit
+favicon: null
+layout_spectrum: 0.5892441277392209
+typography_spectrum: 0.2840440212748945
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4703096675220877
+  lightness: 0.9879781021736562
+  saturation: 0.41792985307984054
+  rhythmicContrast: 0.9819732951000333
+purpose: []
