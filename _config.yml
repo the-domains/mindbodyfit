@@ -1,28 +1,40 @@
-name: MindBodyfit
 favicon: null
-layout_spectrum: 0.5892441277392209
-typography_spectrum: 0.2840440212748945
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: MindBodyfit
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7992831
+  brandStrength: 0.875
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#767676'
     - '#000000'
     - '#38c833'
     - '#aeaeae'
-  brandStrength: 0.875
-  lightness: 0.9879781021736562
-  saturation: 0.375
-  rhythmicContrast: 0.9819732951000333
-purpose: []
+  rhythmicContrast: 0.4139785
+typography_spectrum: 0.05734767
+layout_spectrum: 0.9946237
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
