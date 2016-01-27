@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MindBodyfit]]></title>
         <description><![CDATA[MindBodyfit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mindbodyfit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 21:03:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 21:49:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mindbodyfit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26e3774a-73e6-41f5-9719-ec0ed3b5bf51.jpg">]]></description>
-            <link>undefinedc982c3ca-29e0-4a66-b747-4c689645e233/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1aaef7dd-69b8-40ed-9168-2d981f9bee55.jpg">]]></description>
+            <link>https://thegrid.ai/mindbodyfit/c982c3ca-29e0-4a66-b747-4c689645e233/index.html</link>
             <guid isPermaLink="false">c982c3ca-29e0-4a66-b747-4c689645e233</guid>
-            <pubDate>Wed, 27 Jan 2016 21:02:21 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 21:49:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
