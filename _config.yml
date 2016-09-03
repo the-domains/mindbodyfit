@@ -1,9 +1,30 @@
-favicon: null
-name: MindBodyfit
+typography_spectrum: 0.05734767
+color:
+  saturation: 0.7992831
+  brandStrength: 0.875
+  lightness: 1
+  brandColors:
+    - '#ffffff'
+    - '#767676'
+    - '#000000'
+    - '#38c833'
+    - '#aeaeae'
+  rhythmicContrast: 0.4139785
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.9946237
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: MindBodyfit
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: 'Feeling Good '
 purpose: []
-color:
-  saturation: 0.7992831
-  brandStrength: 0.875
-  lightness: 1
-  brandColors:
-    - '#ffffff'
-    - '#767676'
-    - '#000000'
-    - '#38c833'
-    - '#aeaeae'
-  rhythmicContrast: 0.4139785
-typography_spectrum: 0.05734767
-layout_spectrum: 0.9946237
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
